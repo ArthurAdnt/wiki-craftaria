@@ -12,7 +12,8 @@ Les **quêtes** offrent une expérience de jeu immersive sur tous les serveurs !
 
 Sur le serveur, différentes **quêtes** sont disponibles pour pimenter votre aventure ! Vous pouvez les consulter via la commande **/quete** ou **/q**. Après avoir entré cette commande, un panneau s'affichera comme ceci :
 
-![Quêtes](/img/quest/quest.png)
+![Quêtes](<img width="336" height="247" alt="image" src="https://github.com/user-attachments/assets/2468d073-6692-42d5-8a8a-ec6e3154f21b" />
+)
 
 __Voici les types de quêtes disponibles :__
 
@@ -23,7 +24,14 @@ __Voici les types de quêtes disponibles :__
 - ⏳ **La montre** : _Temps_ → Basé sur le temps passé connecté.
 - 🛠️ **L'entonnoir** : _Divers_ → Quêtes variées.
 - 🛬 **Les elytras** : _Explorateur_ → Trouver des biomes spécifiques.
+- 🍀**La feuille**  : _Labyrinthe_ → Explorer une multitude de labyrinthes.
 - ⛏️ **La pioche** : _Mineur_ → Quêtes de minage.
+- 🪓 **La Hache** :_Bûcheron_ → Casser tout les bois.
+- 🎣 **La canne à pêche** :_Pêcheur_ → Pêcher sans relâche.
+- 👟**Les bottes** :_Jump_ → Un parcours infini.
+- 🏹 **L'arc** :_Jeux_ → Affrontez les autres joueurs.
+- 🟨 **Plastron en or** : _Armurier_ → Crafter une multitude d'objet
+- 📚 **Le livre** : _Enchanteur_ → Gagner une infinité d'expérience.
 
 ---
 
@@ -41,7 +49,7 @@ Pour **annuler** une quête :
 
 1. Accédez au menu via **/quetes** ou **/q**.
 2. Retrouvez la quête en cours.
-3. Faites un **clic droit** dessus.
+3. Faites un **clic gauche** dessus.
 4. Cliquez ensuite sur l'une des teintures vertes ✅ pour confirmer l'annulation.
 
 ![Annuler Quête](/img/quest/cancelquest.png)
