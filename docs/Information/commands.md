@@ -32,7 +32,6 @@ Voici la liste complète des commandes disponibles sur le serveur Craftaria. Ces
 - **/baltop** : Top des joueurs les plus riches.
 - **/pay &lt;pseudo&gt;** : Envoyer de l'argent à un joueur.
 - **/money &lt;pseudo&gt;** : Permet de voir l'argent d'un joueur.
-- **/salaire** : Ouvre la liste des salaires.
 - **/trade &lt;pseudo&gt;** : Permet de faire un échange sécurisé.
 - **/shop &lt;vendre/acheter&gt; &lt;item&gt;** : Chercher un shop par item.
 - **/ah** : Ouvrir l'hôtel des ventes.
